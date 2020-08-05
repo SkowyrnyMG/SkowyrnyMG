@@ -34,9 +34,13 @@ I am 27 years old guy who is just passionate about coding. I live in a small tow
 <br/>
 <br/>
 
+### Quick info:
+
 - 🔭 I’m currently working on cloud invoicing app with Netlify cloud functions and Firebase database. 
 - 🌱 I’m currently learning React, Gatsby, JavaScript and any other tool related with those. 
 - 💬 Ask me about anything you want! 
 - 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='26'>](https://github.com/skowyrnymg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='26'>](https://www.facebook.com/mateusz.gruzla.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='26'>](https://twitter.com/GruzlaMateusz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='26'>](https://www.linkedin.com/in/mateusz-gru%C5%BAla-99b0ab18b/)  
+
+<br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skowyrnymg&show_icons=true)  
