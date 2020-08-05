@@ -1,8 +1,16 @@
-### Hi there 👋, my name is Mateusz
+## Hi there 👋, my name is Mateusz
+
+<br/>
+<br/>
+
 #### Junior FrontEnd Developer
 ![Junior FrontEnd Developer](https://raw.githubusercontent.com/SkowyrnyMG/SkowyrnyMG/master/bannerOTW.png)
 
+<br/>
+
 I am 27 years old guy who is just passionate about coding. I live in a small town in Poland, placed 70 km from Wroclaw. Since the end of 2018 I am expanding my knowledge about creating websites and web apps.
+
+<br/>
 
 ### Languages:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -12,8 +20,8 @@ I am 27 years old guy who is just passionate about coding. I live in a small tow
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-
+ 
+ <br/>
 
 #### Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,7 +30,8 @@ I am 27 years old guy who is just passionate about coding. I live in a small tow
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="firebase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
 
-
+<br/>
+<br/>
 
 - 🔭 I’m currently working on cloud invoicing app with Netlify cloud functions and Firebase database. 
 - 🌱 I’m currently learning React, Gatsby, JavaScript and any other tool related with those. 
