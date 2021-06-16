@@ -2,12 +2,7 @@
 
 <br/>
 
-#### Junior FrontEnd Developer (JavaScript/React/Gatsby)
-![Junior FrontEnd Developer](https://raw.githubusercontent.com/SkowyrnyMG/SkowyrnyMG/master/bannerOTW.png)
-
-<br/>
-
-I am 27 years old guy who is just passionate about coding. I live in a small town in Poland, placed 70 km from Wroclaw. Since the end of 2018 I am expanding my knowledge about creating websites and web apps.
+I am 28 years old guy who is just passionate about coding. I live in a small town in Poland, placed 70 km from Wroclaw. Since the end of 2018 I am expanding my knowledge about creating websites and web apps.
 
 <br/>
 
